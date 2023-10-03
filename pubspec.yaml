@@ -1,10 +1,9 @@
 name: universal_biometric
-description: A new Flutter package project.
+description: To able to find the attached biometric device and giev the pid block after fingerprint capture.
 version: 0.0.1
-homepage:
 
 environment:
-  sdk: '>=3.2.0-74.0.dev <4.0.0'
+  sdk: ">=3.2.0-74.0.dev <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
